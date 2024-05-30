@@ -9,7 +9,7 @@ description: Hi! I'm Shruti, a software Developer with 3 years of experience in 
 
 ## About Me
 
-<img class="profile-picture" src="taklu.png">
+<img class="profile-picture" src="nilam.png">
 
 Hi! I'm Shruti, a software Developer with 3 years of experience in web development passionate about programming and delivering clean, well-designed and scalable code.
 
