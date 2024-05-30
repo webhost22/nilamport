@@ -23,11 +23,19 @@ Email:[nilam.21820126@viit.ac.in](mailto:nilam.21820126@viit.ac.in?subject=Webpa
 
 ## Past
 
-* **TietoEVRY India Pvt. Ltd**	India
-Software Engineer	November2023 – Present
+* **TietoEVRY India Pvt. Ltd** [November2023 – Present]
+* 
+
+Software Engineer	
+
+
 •	Objective: Developed a software solution used by municipalities to enhance citizen well-being.
+
 •	Methodology: Contributed to a team focused on crafting scalable and modular code architecture.
+
 •	Results: Streamlined government service creation processes, enhancing efficiency and accessibility.
+
+
 
 
 
