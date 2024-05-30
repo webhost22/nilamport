@@ -39,7 +39,7 @@ Software Engineer
 
 
 * **Vritti Solution**[July 2021 - November 2023]
-* 	
+   
 Software Developer
 	
 •	Objective: Engineered applications automating diverse business processes.
