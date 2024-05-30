@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shruti Bansod
+title: Nilam Ghaware
 description: Hi! I'm Nilam Ghaware, I'm a dedicated Mechanical Engineering graduate with a strong background in software development and a proven track record of integrating digital solutions to enhance efficiency. I excels in creating innovative and scalable software applications that drive business and technological advancements.
 
 
