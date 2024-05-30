@@ -1,33 +1,35 @@
 ---
 layout: default
 title: Shruti Bansod
-description: Hi! I'm Shruti, a software Developer with 3 years of experience in web development passionate about programming and delivering clean, well-designed and scalable code.
+description: Hi! I'm Nilam Ghaware, I'm a dedicated Mechanical Engineering graduate with a strong background in software development and a proven track record of integrating digital solutions to enhance efficiency. I excels in creating innovative and scalable software applications that drive business and technological advancements.
+
+
+
 ---
 
-> "I think the biggest innovations of the 21st century will be at the intersection of biology and technology. A new era is beginning." - Steve Jobs
+> " Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young." - Henry Ford
 
 
 ## About Me
 
 <img class="profile-picture" src="nilam.png">
 
-Hi! I'm Shruti, a software Developer with 3 years of experience in web development passionate about programming and delivering clean, well-designed and scalable code.
+Hi! I'm Nilam Ghaware, I'm a dedicated Mechanical Engineering graduate with a strong background in software development and a proven track record of integrating digital solutions to enhance efficiency. I excels in creating innovative and scalable software applications that drive business and technological advancements.
 
 Hit me up if you've got a cool idea regarding any of those and wish to collaborate!
 
-Email:[shruti.bansod17@vit.edu](mailto:shruti.bansod17@vit.edu?subject=Webpage)
-
-
-## Present
-
-* Working on a cool web service. More coming soon!
-
-* Preparing my masters application.
-
-* Life?
+Email:[nilam.21820126@viit.ac.in](mailto:nilam.21820126@viit.ac.in?subject=Webpage)
 
 
 ## Past
+
+* **TietoEVRY India Pvt. Ltd**	India
+Software Engineer	November2023 – Present
+•	Objective: Developed a software solution used by municipalities to enhance citizen well-being.
+•	Methodology: Contributed to a team focused on crafting scalable and modular code architecture.
+•	Results: Streamlined government service creation processes, enhancing efficiency and accessibility.
+
+
 
 * **NCR Atleos, PS Engineer I  [September 2023 – Present]**
 
